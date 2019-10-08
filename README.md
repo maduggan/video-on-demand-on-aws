@@ -1,7 +1,5 @@
 # Video on Demand on AWS
 
-How to implement a video-on-demand workflow on AWS leveraging AWS Step Functions and AWS Elemental MediaConvert. Source code for the AWS solution [Video on Demand on AWS](https://aws.amazon.com/answers/media-entertainment/video-on-demand-on-aws/).
-
 
 ## On this Page
 - [Architecture Overview](#architecture-overview)
